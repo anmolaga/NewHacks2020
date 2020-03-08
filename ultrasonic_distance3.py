@@ -97,7 +97,7 @@ if __name__ == '__main__':
             if state == 0:
                 delta1 = time.time()
 
-            time.sleep(0.05)
+            time.sleep(0.025)
 
     # Reset by pressing CTRL + C
     except KeyboardInterrupt:
